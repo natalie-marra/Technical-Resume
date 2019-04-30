@@ -127,7 +127,7 @@ a .fab {
 }
 
 .school, .job-title {
-  text-transform: capitalize;
+ #text-transform: capitalize;
 }
 
 .school span, .job-title span {
