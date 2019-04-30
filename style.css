@@ -67,6 +67,7 @@ main {
 
 main section:not(:last-child) {
   border-bottom: 1px solid #ccc;
+  text-align: justify;
 }
 
 .fab {
